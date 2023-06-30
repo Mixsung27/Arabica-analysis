@@ -112,7 +112,7 @@ Sample Information
 
 2.3 คำถาม : เมล็ดกาแฟ Ethiopian Heirlooms จากประเทศเอธิโอเปีย Ethiopia ที่ผลิตมากที่สุดใช้กระบวนการผลิตแบบไหนที่ทำให้ได้คะแนนสูงที่สุด  
 สมมติฐาน : คาดว่าเป็นแบบ Natural / Dry เพื่อให้ได้กลิ่นและรสชาติตาม Nature ของกาแฟนั้นๆ  
-https://coffeepressthailand.com/2020/08/21/coffeeprocessing/
+ที่มา : https://coffeepressthailand.com/2020/08/21/coffeeprocessing/
 ![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/1831d737-a48c-4815-a812-326d0ec76632)  
 (Figure 5.1 : Processing Method vs Cupping Scores for Ethiopian Heirlooms Coffee in Ethiopia)
 
