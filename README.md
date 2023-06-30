@@ -71,7 +71,7 @@ Sample Information
 สมมุติฐาน : ประเทศที่มีคุณภาพกาแฟที่ดีที่สุดน่าจะเป็นประเทศเอธิโอเปีย เนื่องจากเป็นประเทศที่มีชื่อเสียงเรื่องกาแฟอาราบิก้า และความแตกต่างของคุณภาพส่วนใหญ่อาจมาจากระดับความสูงของแหล่งที่เพาะปลูก เพราะการปลูกกาแฟอาราบิก้าควรปลูกบนพื้นที่ที่สูงตั้งแต่ 800-1,000 เมตรขึ้นไปเหนือระดับน้ำทะเล ยิ่งถ้าสูง 1,000 เมตรขึ้นไปจะยิ่งดีมาก
 
 2.1.1 เริ่มจากการเลือก column ของข้อมูลที่ต้องการใช้จาก data และพิจารณาอันดับคะแนนที่มากที่สุดของแต่ละประเทศจาก Total_Cup_Points (คะแนนรวมที่บ่งบอกคุณภาพของกาแฟ) โดยเรียงประเทศที่ได้คะแนนจากมากไปน้อย\
-![image]((https://github.com/Mixsung27/Arabica-analysis/assets/138224754/75de1c9f-c1d8-4a16-833b-9e1a0884981e))  
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/1db6b30c-1e08-4bea-9c92-3be24cfaee66)  
 (Figure 1 : Top 3 of Coffee Quality Scores)
 
 
@@ -79,11 +79,11 @@ Sample Information
 
 2.1.2 พิจารณาความสูงของแหล่งเพาะปลูกมีผลกับคะแนนของคุณภาพกาแฟไหม
 2.1.2.1 พิจารณาจากคะแนนในแต่ละส่วนของ Cupping score, ค่า Moisture(ความชุ่มชื้นของเมล็ด) และ Altitude(ระดับความสูง) เริ่มจากการเลือกข้อมูลที่ต้องการนำมาใช้วิเคราะห์และแสดงผล
-![image]((https://github.com/Mixsung27/Arabica-analysis/assets/138224754/7a7af933-fa11-4214-bdef-def34a08841f))  
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/903d8f32-cfef-4536-b251-071d692f83b5)  
 (Figure 2 : Coffee Scores of Each Country)
 
 	
-![image]((https://github.com/Mixsung27/Arabica-analysis/assets/138224754/8bb984ee-e2db-4b73-b13b-6ffbaa13c4ce))  
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/0b0ef08d-53a0-4e2e-bd62-59ec48e34851)  
 (Figure 3 : Moisture of Each Country)
 
 	
@@ -96,19 +96,36 @@ Sample Information
 3) Body ประเทศกัวเตมาลามีคะแนน 8.33 และประเทศโคลอมเบีย มีคะแนน 8.25 คะแนน  
 ในส่วนของ Overall ประเทศเอธิโอเปียมีคะแนน 9.25 และประเทศโคลอมเบีย มีคะแนน 8.58 คะแนน นอกจากนี้มีเกณฑ์คุณภาพที่มีผลเท่ากัน ได้แก่ Flavor ที่มีคะแนน 8.5 คะแนน, Aftertest และ Balance มีคะแนนเท่ากับ 8.42 คะแนน และ Uniformity , Clean cup และ Sweetness มีคะแนนคุณภาพกาแฟเท่ากัน เท่ากับ 10.0 คะแนน
 
-จากการอ่านค่าเกณฑ์การประเมินข้างต้น แสดงให้เห็นว่าประเทศกัวเตมาลา(Guatemala) ไม่ได้มีการเพาะปลูกกาแฟสูงที่สุดเมื่อเทียบกับโคลอมเบีย (Colombia) แต่ประเทศกัวเตมาลามีผลคะแนนคุณภาพที่มากกว่า เกิดจากการเพาะปลูกในพื้นที่ระดับความสูงนั้นอยู่ในเกณฑ์การเพาะปลูกในพื้นที่สูงในระดับที่เหมาะสมอยู่แล้ว ทั่งนี้ขึ้นอยู่กับพื้นที่ของภูมิประเทศในประเทศนั้นๆ เป็นหลัก และรวมถึงปัจจัยอื่นๆ อาทิเช่น สภาพดิน สภาพอากาศ การดูแลรักษา การเก็บเกี่ยว เป็นต้น
+จากการอ่านค่าเกณฑ์การประเมินข้างต้น แสดงให้เห็นว่าประเทศกัวเตมาลา(Guatemala) ไม่ได้มีการเพาะปลูกกาแฟสูงที่สุดเมื่อเทียบกับโคลอมเบีย (Colombia) แต่ประเทศกัวเตมาลามีผลคะแนนคุณภาพที่มากกว่า เกิดจากการเพาะปลูกในพื้นที่ระดับความสูงนั้นอยู่ในเกณฑ์การเพาะปลูกในพื้นที่สูงในระดับที่เหมาะสมอยู่แล้ว ทั่งนี้ขึ้นอยู่กับพื้นที่ของภูมิประเทศในประเทศนั้นๆ เป็นหลัก และรวมถึงปัจจัยอื่นๆ อาทิเช่น สภาพดิน สภาพอากาศ การดูแลรักษา การเก็บเกี่ยว เป็นต้น  
 
-2.2.1 พิจารณาจาก 5 ประเทศที่มีอันดับสูงสุดว่าปลูกอาราบิก้าสายพันธุ์ใดมากสุด โดยหาจากจำนวนของTotal(Ton)(น้ำหนักทั้งหมด) จากการนำ Number_of_Bags(จำนวนของถุง) คูณกับ Bag_Weight(น้ำหนักของถุง) ในช่วงปี 2021-2023 เพื่อให้ได้สายพันธุ์ที่มีน้ำหนักทั้งหมดที่มากที่สุดของแต่ละประเทศ
-![image](https://github.com/Mixsung27/Arabica-analysis/assets/135399656/cc55b736-60bd-439a-88ea-094c7570a8ef)
+2.2 คำถาม : กาแฟอาราบิก้าสายพันธุ์ใดในแต่ละประเทศที่ได้รับความนิยมปลูกสูงสุด  
+สมมติฐาน : แต่ละประเทศน่าจะมีอาราบิก้าสายพันธุ์ที่นิยมปลูกแตกต่างกัน
 
-	
+2.2.1 พิจารณาจาก 5 ประเทศที่มีอันดับสูงสุดว่าปลูกอาราบิก้าสายพันธุ์ใดมากสุด โดยหาจากจำนวนของTotal(Ton)(น้ำหนักทั้งหมด) จากการนำ Number_of_Bags(จำนวนของถุง) คูณกับ Bag_Weight(น้ำหนักของถุง) ในช่วงปี 2021-2023 เพื่อให้ได้สายพันธุ์ที่มีน้ำหนักทั้งหมดที่มากที่สุดของแต่ละประเทศ  
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/f00f2fda-70fd-4bff-886f-c5b31809626c)  
+(Figure 5 : The Most Variety of Each Country)
 
- จากผลลัพธ์ที่ได้จาก Figure 5 พบว่าประเทศเอธิโอเปียนิยมปลูกสายพันธุ์ Ethiopian Heirlooms มากที่สุด โดยประเทศบราซิล(Brazil) นิยมปลูกสายพันธุ์ Mundo Novo และมี 3 ประเทศที่นิยมปลูกสายพันธุ์ Caturra เหมือนกันคือ ประเทศกัวเตมาลา(Guatemala), ประเทศโคลัมเบีย(Colombia) และประเทศเปรู(Peru)
+จากผลลัพธ์ที่ได้จาก Figure 5 พบว่าประเทศเอธิโอเปีย(Ethiopia) นิยมปลูกสายพันธุ์ Ethiopian Heirlooms มากที่สุด โดยประเทศบราซิล(Brazil) นิยมปลูกสายพันธุ์ Mundo Novo และมี 3 ประเทศที่นิยมปลูกสายพันธุ์ Caturra เหมือนกันคือ ประเทศกัวเตมาลา(Guatemala), ประเทศโคลัมเบีย(Colombia) และประเทศเปรู(Peru)
 
- 2.3 คำถาม : เมล็ดกาแฟ Ethiopian Heirlooms จากประเทศเอธิโอเปีย Ethiopia ที่ผลิตมากที่สุดใช้กระบวนการผลิตแบบไหนที่ทำให้ได้คะแนนสูงที่สุด  
+2.3 คำถาม : เมล็ดกาแฟ Ethiopian Heirlooms จากประเทศเอธิโอเปีย Ethiopia ที่ผลิตมากที่สุดใช้กระบวนการผลิตแบบไหนที่ทำให้ได้คะแนนสูงที่สุด  
 สมมติฐาน : คาดว่าเป็นแบบ Natural / Dry เพื่อให้ได้กลิ่นและรสชาติตาม Nature ของกาแฟนั้นๆ  
 https://coffeepressthailand.com/2020/08/21/coffeeprocessing/
-![image](https://github.com/Mixsung27/Arabica-analysis/assets/135399656/c1079bd1-829f-47c7-8805-2f5b5b958204)
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/1831d737-a48c-4815-a812-326d0ec76632)  
+(Figure 5.1 : Processing Method vs Cupping Scores for Ethiopian Heirlooms Coffee in Ethiopia)
+
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/0ff2980a-b64a-415d-9a15-129ffed1dbf8)  
+(Figure 5.2 : Processing Method vs Cupping Scores for Caturra Coffee in Guatemala)
+
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/6a7faa53-1b00-4264-a966-0394d98a5318)  
+(Figure 5.3 : Processing Method vs Cupping Scores for Caturra Coffee in Colombia)
+
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/761c690b-dba1-480c-826e-2339713fa22a)  
+(Figure 5.4 : Processing Method vs Cupping Scores for Mundo Novo Coffee in Brazil)
+
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/b771711a-7d4e-4af7-a400-1e3c7b681c03)  
+(Figure 5.5 : Processing Method vs Cupping Scores for Caturra Coffee in Peru)
+
+
 
 จากกราฟ Figure 6 พบว่าเมล็ดกาแฟสายพันธุ์ Ethiopian Heirlooms ที่มีการใช้กระบวนการผลิตแบบ Natural / Dry มีคะแนน 86.25 คะแนน ซึ่งมีคะแนนรวมมากกว่ากระบวนการผลิตแบบ Washed / Wet ที่มีคะแนน 85.33 คะแนน
 
