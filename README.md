@@ -36,6 +36,9 @@ Certification Information
 - Variety: ชนิดของเมล็ดกาแฟ  
 - Status: สถานะหรือสภาพของเมล็ดกาแฟ  
 - Processing Method: กระบวนการแปรรูป
+  
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/f0f5ab8a-717c-4a13-9ec9-f15ffb219221)
+Processing Method ที่มา : https://cafn.co/blog/coffee-processing
 
 Cupping Scores
 Cupping score คืออะไร?  
