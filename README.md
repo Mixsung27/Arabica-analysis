@@ -1,12 +1,3 @@
-1.1 Python Packages ประกอบด้วย
-  1. NumPy
-  2. Pandas
-  3. Matplotlib
-  4. Seaborn
-
-1.2 Import data 'arabica_coffee_full_table.csv' ที่ได้มากจาก Kaggle: https://www.kaggle.com/datasets/erwinhmtang/coffee-quality-institute-reviews-may2023?select=arabica_coffee_certification_information.csv
-โดยมีข้อมูลทั้งหมด 1509 entries และ ทั้งหมด 42 column เป็นข้อมูลจาก Coffee Quality Institute (CQI)
-
 # **บทนำ**   
 กาแฟอาราบิก้าคืออะไร?  
 
@@ -63,7 +54,18 @@ Sample Information
 - Expiration: วันหมดอายุของการรับรองกาแฟ  
 - Certification Body: องค์กรที่รับผิดชอบในการรับรองกาแฟ  
 - Certification Address: ที่อยู่ของหน่วยรับรอง  Certification  
-- Contact: ข้อมูลติดต่อสำหรับหน่วยรับรอง 
+- Contact: ข้อมูลติดต่อสำหรับหน่วยรับรอง
+
+# **1. Import Data & Python Packages**
+1.1 Python Packages ประกอบด้วย
+  1. NumPy
+  2. Pandas
+  3. Matplotlib
+  4. Seaborn
+
+1.2 Import data 'arabica_coffee_full_table.csv' ที่ได้มากจาก Kaggle: https://www.kaggle.com/datasets/erwinhmtang/coffee-quality-institute-reviews-may2023?select=arabica_coffee_certification_information.csv
+โดยมีข้อมูลทั้งหมด 1509 entries และ ทั้งหมด 42 column เป็นข้อมูลจาก Coffee Quality Institute (CQI)
+
 
 # **2.Questioning and hypothesis**
 2.1 คำถาม : คุณภาพกาแฟอาราบิก้าที่ดีที่สุดอยู่ประเทศอะไร และต่างกันเพราะอะไร?
