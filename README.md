@@ -1,4 +1,4 @@
-# **1. Import Data & Python Packages**
+![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/17d1eccb-9861-4eb8-9aa9-7cc849a7c665)# **1. Import Data & Python Packages**
 
 
 1.1 Python Packages ประกอบด้วย
@@ -117,19 +117,19 @@ Sample Information
 สมมติฐาน : คาดว่าเป็นแบบ Natural / Dry เพื่อให้ได้กลิ่นและรสชาติตาม Nature ของกาแฟนั้นๆ  
 ที่มา : https://coffeepressthailand.com/2020/08/21/coffeeprocessing/
 ![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/e38f7e00-067c-4a99-b585-3d9fc2d0977f)  
-(Figure 5.1 : Processing Method vs Cupping Scores for Ethiopian Heirlooms Coffee in Ethiopia)
+(Figure 5.1 : Processing Method vs Cupping Scores for Caturra Coffee in Colombia)
 
 ![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/003b6a9d-55db-4881-9fbc-73dc54499557)  
-(Figure 5.2 : Processing Method vs Cupping Scores for Caturra Coffee in Guatemala)
+(Figure 5.2 : Processing Method vs Cupping Scores for Gesha Coffee in Taiwan)
 
 ![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/0fc3a8f7-0c69-4845-885b-56c48c784325)  
-(Figure 5.3 : Processing Method vs Cupping Scores for Caturra Coffee in Colombia)
+(Figure 5.3 : Processing Method vs Cupping Scores for Catimor Coffee in Laos)
 
 ![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/68cf016d-8c50-40ea-a06d-dac5fca2d3cb)  
-(Figure 5.4 : Processing Method vs Cupping Scores for Mundo Novo Coffee in Brazil)
+(Figure 5.4 : Processing Method vs Cupping Scores for Caturra Coffee in Costa Rica)
 
 ![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/5c6390b3-b1e4-4265-a44e-4f778b307031)  
-(Figure 5.5 : Processing Method vs Cupping Scores for Caturra Coffee in Peru)
+(Figure 5.5 : Processing Method vs Cupping Scores for Caturra Coffee in Guatemala)
 
 จากกราฟ Figure 5.1 ถึง Figure 5.5 พบว่าเมล็ดกาแฟสายพันธุ์ Caturra จากประเทศโคลัมเบีย(Colombia) มีการใช้กระบวนการผลิตแบบ Washed / Wet ได้คะแนน 86.17 คะแนน ประเทศไต้หวัน(Taiwan) ที่นิยมปลูกสายพันธุ์ Gesha มีการใช้กระบวนการผลิตแบบ Washed / Wet ได้คะแนน 87.58 คะแนน ประเทศลาว(Laos) นิยมปลูกสายพันธุ์ Catimor มีการใช้กระบวนการผลิตแบบ Natural / Dry ได้คะแนน 83.08 คะแนน และ 2 ประเทศที่นิยมปลูกสายพันธุ์ Caturra เหมือนกันคือ ประเทศกัวเตมาลา(Guatemala) ใช้กระบวนการผลิตแบบ Washed / Wet ได้คะแนน 85.71 คะแนน และประเทศคอสตาริกา(Costa Rica) ใช้กระบวนการผลิตแบบ Washed / Wet ได้คะแนน 87.17 คะแนน
 
