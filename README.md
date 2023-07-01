@@ -1,6 +1,3 @@
-![image](https://github.com/Mixsung27/Arabica-analysis/assets/138224754/17d1eccb-9861-4eb8-9aa9-7cc849a7c665)# **1. Import Data & Python Packages**
-
-
 1.1 Python Packages ประกอบด้วย
   1. NumPy
   2. Pandas
